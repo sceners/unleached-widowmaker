@@ -1,6 +1,6 @@
 # Unleashed vector scroll intro
 
-Widow Maker of Electric Druggies
+For Unleashed (UNL) by Widow Maker of Electric Druggies
 
 #### Written in 2008 March for Windows.
 
